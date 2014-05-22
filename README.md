@@ -1,4 +1,4 @@
-claudia
+Claudia
 =======
 
-A set of mostly harmless vagrant files
+A set of mostly harmless vagrant files.
