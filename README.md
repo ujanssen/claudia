@@ -1,7 +1,7 @@
 Claudia
 =======
 
-A set of mostly harmless vagrant files.
+A playground of mostly harmless vagrant files.
 
 Install virtual box and vagrant and import the trusty box:
 
